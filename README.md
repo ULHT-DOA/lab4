@@ -586,10 +586,6 @@ Create a multiple files named `DOA_Bookstore_Queries_<operations: create | inser
 
 ## Final Deliverables
 
-Submit the following files via the learning management system:
-
-### Required Files
-
 Place all generated files in a single folder named Lab_YourName_StudentID and deliver it in moodle in a .zip file under Lab 4.
 
 ## Additional Resources
